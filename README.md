@@ -8,3 +8,5 @@
 - 'Bond Tomas'
 - 'Kirtstein Ivo'
 - 'Garcia Alejo'
+
+https://docs.google.com/spreadsheets/d/11UR0nGzv33VTUJj2gbHtuSJDBOsvBmNpIqONqn2JhU0/edit?usp=sharing
